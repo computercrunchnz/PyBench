@@ -1,5 +1,5 @@
 # PyBench
-A way to measure single-threaded Python performance
+A way to measure single-threaded Python performance, which can be run on any python interpereter with the time, math and random modules.
 
 Download the file, run it, enter in the duration and then run the test.
 
