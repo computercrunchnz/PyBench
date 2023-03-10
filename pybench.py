@@ -2,7 +2,7 @@ import time
 import math
 import random
 
-runs = input("Minutes to run for: ")
+runs = 1
 
 runsa = 0
 
