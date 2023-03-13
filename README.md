@@ -9,7 +9,7 @@ Python 3.
 # How to run on Linux
 1. Make sure git and python3 is installed.
 2. Run <git clone https://github.com/computercrunchnz/pybench.git>
-3. Run [cd pybench]
+3. Run #cd pybench#
 4. Run <python3 *.py>
 5. Add scores to the PyBench Database.
 
